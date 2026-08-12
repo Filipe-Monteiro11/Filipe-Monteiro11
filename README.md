@@ -1,4 +1,4 @@
-```
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:121212&height=180&section=header&text=Filipe%20Monteiro&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
@@ -21,7 +21,6 @@ criar sistemas que resolvem problemas reais do dia a dia — ir além da web
 
 $ building
 Strong Fit — site de academia em HTML e CSS
-```
 
 <br>
 
