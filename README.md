@@ -42,7 +42,6 @@ Mas meu objetivo vai além da web: quero aprender a criar **sistemas práticos p
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:ff6b00&height=100&section=footer" width="100%" />
 </p>
