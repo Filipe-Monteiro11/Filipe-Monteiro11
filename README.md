@@ -1,3 +1,7 @@
+<!-- Se for o código do capsule-render (a faixa) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:121212&height=160&section=header&text=Filipe%20Monteiro&fontSize=50&fontColor=ffffff" width="100%" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -21,4 +25,4 @@ Mas meu objetivo vai além da web: quero aprender a criar **sistemas práticos p
 - 🎯 **Ir além da web** — backend, banco de dados e automação
 - 📈 **Unir tecnologia e negócio** — usar o que aprendo para melhorar o dia a dia
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:ff6b00&height=100&section=footer)
+
