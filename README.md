@@ -1,26 +1,54 @@
-<!-- Se for o código do capsule-render (a faixa) -->
+```
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:121212&height=160&section=header&text=Filipe%20Monteiro&fontSize=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:121212&height=180&section=header&text=Filipe%20Monteiro&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
-## Sobre mim
+<div align="center">
+  <h1>👋 Olá, eu sou Filipe Monteiro</h1>
+  <p><strong>Estudante de Análise e Desenvolvimento de Sistemas | Aprendendo a criar sistemas para o dia a dia</strong></p>
+</div>
+
+<br>
+```bash
+$ whoami
+Filipe Monteiro // Estudante de ADS
+
+$ hoje
+HTML e CSS // construindo meu primeiro projeto: Strong Fit
+
+$ objetivo
+criar sistemas que resolvem problemas reais do dia a dia — ir além da web
+
+$ building
+Strong Fit — site de academia em HTML e CSS
+```
+
+<br>
+
+## 📌 Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas. Comecei com HTML e CSS e estou construindo meu primeiro projeto, o **Strong Fit**, um site de academia.
 
 Mas meu objetivo vai além da web: quero aprender a criar **sistemas práticos para o dia a dia** — controle de estoque e ferramentas que economizam tempo no trabalho e nos negócios.
 
-## O que estou fazendo agora
+<br>
+
+## 🎯 O que estou fazendo agora
 
 - 📚 **Aprendendo** — HTML e CSS, com foco em JavaScript, Java, Banco de Dados e mais pra frente outras linguagens.
 - 🔭 **Projetos** — Strong Fit, site de academia
 
-## O que quero alcançar
+<br>
+
+## 🚀 O que quero alcançar
 
 - ⚡ **Criar sistemas úteis** — ferramentas de automação, dados e gestão para o dia a dia
 - 🎯 **Ir além da web** — backend, banco de dados e automação
 - 📈 **Unir tecnologia e negócio** — usar o que aprendo para melhorar o dia a dia
 
-##🌐 Engineering Focus
+<br>
+
+## 🧩 Engineering Focus
 
 | 🌐 **Web** | ⚙️ **Sistemas para o dia a dia** |
 | --- | --- |
@@ -36,12 +64,16 @@ Mas meu objetivo vai além da web: quero aprender a criar **sistemas práticos p
 
 <br>
 
-## <img src="https://camo.githubusercontent.com/bbcf57c01835eb1bfe28a789074db9bc42b124bb89c3e1852dbee754c977050c/68747470733a2f2f69636f6e67722e616d2f666561746865722f6c61796572732e7376673f73697a653d323026636f6c6f723d613738626661" width="20" /> Tech Stack
+## <img src="https://camo.githubusercontent.com/bbcf57c01835eb1bfe28a789074db9bc42b124bb89c3e1852dbee754c977050c/68747470733a2f2f69636f6e67722e616d2f666561746865722f6c61796572732e7376673f73697a653d323026636f6c6f723d613738626661" width="20" align="center" /> Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
+
+<br>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:ff6b00&height=100&section=footer" width="100%" />
 </p>
