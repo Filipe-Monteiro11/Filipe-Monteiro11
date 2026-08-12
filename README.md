@@ -1,7 +1,7 @@
 ## Olá, eu sou Felipe 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-   Aprendendo HTML , CSS, JAVA, JAVA SCRIPT, BANCO DE DADOS — construindo meu primeiro site: **Strong Fit**
+   Aprendendo HTML , CSS, JAVA, JAVA SCRIPT, BANCO DE DADOS 
 🔭 Meu foco: desenvolvimento de sistemas não só web.
 
 ## 🚀 Projetos
