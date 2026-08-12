@@ -20,7 +20,7 @@ Mas meu objetivo vai além da web: quero aprender a criar **sistemas práticos p
 - 🎯 **Ir além da web** — backend, banco de dados e automação
 - 📈 **Unir tecnologia e negócio** — usar o que aprendo para melhorar o dia a dia
 
-🌐 Engineering Focus
+##🌐 Engineering Focus
 
 | 🌐 **Web** | ⚙️ **Sistemas para o dia a dia** |
 | --- | --- |
