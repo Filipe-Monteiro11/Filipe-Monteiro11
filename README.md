@@ -25,4 +25,10 @@ Mas meu objetivo vai além da web: quero aprender a criar **sistemas práticos p
 - 🎯 **Ir além da web** — backend, banco de dados e automação
 - 📈 **Unir tecnologia e negócio** — usar o que aprendo para melhorar o dia a dia
 
+## 🎯 Foco
 
+| 🌐 **Web** | ⚙️ **Sistemas para o dia a dia** |
+| --- | --- |
+| HTML e CSS para criar sites como o **Strong Fit** | Ferramentas práticas que resolvem problemas reais |
+| 📊 **Dados** | ⚡ **Automação** |
+| Organizar e entender informações | Automatizar tarefas repetitivas do trabalho |
