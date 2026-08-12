@@ -4,24 +4,11 @@
 </p>
 
 <div align="center">
-  <h1>👋 Olá, eu sou Filipe Monteiro</h1>
+
   <p><strong>Estudante de Análise e Desenvolvimento de Sistemas | Aprendendo a criar sistemas para o dia a dia</strong></p>
 </div>
 
 <br>
-```bash
-$ whoami
-Filipe Monteiro // Estudante de ADS
-
-$ hoje
-HTML e CSS // construindo meu primeiro projeto: Strong Fit
-
-$ objetivo
-criar sistemas que resolvem problemas reais do dia a dia — ir além da web
-
-$ building
-Strong Fit — site de academia em HTML e CSS
-
 <br>
 
 ## 📌 Sobre mim
