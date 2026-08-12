@@ -2,11 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:121212&height=160&section=header&text=Filipe%20Monteiro&fontSize=50&fontColor=ffffff" width="100%" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
 
 ## Sobre mim
 
@@ -40,6 +35,13 @@ Mas meu objetivo vai além da web: quero aprender a criar **sistemas práticos p
 - [Strong Fit](https://github.com/Filipe-Monteiro11/For-a-Fit) — site de academia com HTML e CSS
 
 <br>
+
+## <img src="https://camo.githubusercontent.com/bbcf57c01835eb1bfe28a789074db9bc42b124bb89c3e1852dbee754c977050c/68747470733a2f2f69636f6e67722e616d2f666561746865722f6c61796572732e7376673f73697a653d323026636f6c6f723d613738626661" width="20" /> Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:ff6b00&height=100&section=footer" width="100%" />
