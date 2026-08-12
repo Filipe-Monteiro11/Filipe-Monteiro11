@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b00,100:121212&height=180&section=header&text=Filipe%20Monteiro&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
-<div align="center">
-
-  <p><strong>Estudante de Análise e Desenvolvimento de Sistemas | Aprendendo a criar sistemas para o dia a dia</strong></p>
-</div>
-
 <br>
 <br>
 
