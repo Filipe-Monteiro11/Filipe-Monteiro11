@@ -12,7 +12,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas. Comecei com HTML e CSS e estou construindo meu primeiro projeto, o **Strong Fit**, um site de academia.
 
-Mas meu objetivo vai além da web: quero aprender a criar **sistemas práticos para o dia a dia** — controle de estoque, automação de planilhas e ferramentas que economizam tempo no trabalho e nos negócios.
+Mas meu objetivo vai além da web: quero aprender a criar **sistemas práticos para o dia a dia** — controle de estoque e ferramentas que economizam tempo no trabalho e nos negócios.
 
 ## O que estou fazendo agora
 
