@@ -17,7 +17,7 @@ Mas meu objetivo vai além da web: quero aprender a criar **sistemas práticos p
 ## 🎯 O que estou fazendo agora
 
 - 📚 **Aprendendo** — HTML e CSS, com foco em JavaScript, Java, Banco de Dados e mais pra frente outras linguagens.
-- 🔭 **Projetos** — Strong Fit, site de academia
+- 🔭 **Projetos** — Strong Fit (site de academia); HESRES (site para uma empresa de produtos de limpeza);
 
 <br>
 
