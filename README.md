@@ -42,6 +42,7 @@ Mas meu objetivo vai além da web: quero aprender a criar **sistemas práticos p
 ## 🚀 Projetos
 
 - [Strong Fit](https://github.com/Filipe-Monteiro11/For-a-Fit) — site de academia com HTML e CSS
+- [HESRES — site de produtos de limpeza](https://github.com/Filipe-Monteiro11/hesres-sit) - Site de uma empresa de produtos de limpeza com python,html,css e jvsct
 
 <br>
 
