@@ -6,7 +6,7 @@
 <br>
 <br>
 
-## 📌 Sobre mim
+## - Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas. Comecei com HTML e CSS e estou construindo meu primeiro projeto, o **Strong Fit**, um site de academia.
 
@@ -14,18 +14,18 @@ Mas meu objetivo vai além da web: quero aprender a criar **sistemas práticos p
 
 <br>
 
-## 🎯 O que estou fazendo agora
+## - O que estou fazendo agora
 
 - 📚 **Aprendendo** — HTML e CSS, com foco em JavaScript, Java, Banco de Dados e mais pra frente outras linguagens.
 - 🔭 **Projetos** — Strong Fit (site de academia); HESRES (site para uma empresa de produtos de limpeza);
 
 <br>
 
-## 🚀 O que quero alcançar
+## - O que quero alcançar
 
-- ⚡ **Criar sistemas úteis** — ferramentas de automação, dados e gestão para o dia a dia
-- 🎯 **Ir além da web** — backend, banco de dados e automação
-- 📈 **Unir tecnologia e negócio** — usar o que aprendo para melhorar o dia a dia
+-  **Criar sistemas úteis** — ferramentas de automação, dados e gestão para o dia a dia
+-  **Ir além da web** — backend, banco de dados e automação
+-  **Unir tecnologia e negócio** — usar o que aprendo para melhorar o dia a dia
 
 <br>
 
@@ -39,7 +39,7 @@ Mas meu objetivo vai além da web: quero aprender a criar **sistemas práticos p
 
 <br>
 
-## 🚀 Projetos
+## - Projetos
 
 - [Strong Fit](https://github.com/Filipe-Monteiro11/For-a-Fit) — site de academia com HTML e CSS
 - [HESRES](https://github.com/Filipe-Monteiro11/hesres-sit) - Site para a empresa HE&S de produtos de limpeza com python,html,css e js
