@@ -8,16 +8,18 @@
 
 ## - Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas. Comecei com HTML e CSS e estou construindo meu primeiro projeto, o **Strong Fit**, um site de academia.
+Sou estudante de Análise e Desenvolvimento de Sistemas. Comecei com HTML, CSS e Java Script. Atualmente trabalhando de Freelance .
 
 Mas meu objetivo vai além da web: quero aprender a criar **sistemas práticos para o dia a dia** — controle de estoque e ferramentas que economizam tempo no trabalho e nos negócios.
+
+futuramente trabalhando com Automação com IA
 
 <br>
 
 ## - O que estou fazendo agora
 
 - 📚 **Aprendendo** — HTML e CSS, com foco em JavaScript, Java, Banco de Dados e mais pra frente outras linguagens.
-- 🔭 **Projetos** — Strong Fit (site de academia); HESRES (site para uma empresa de produtos de limpeza);
+- 🔭 **Projetos** — Strong Fit (site de academia); HES Hygiene Solutions (site para uma empresa de produtos de limpeza);
 
 <br>
 
@@ -33,7 +35,7 @@ Mas meu objetivo vai além da web: quero aprender a criar **sistemas práticos p
 
 | 🌐 **Web** | ⚙️ **Sistemas para o dia a dia** |
 | --- | --- |
-| HTML e CSS para criar sites como o **Strong Fit** | Ferramentas práticas que resolvem problemas reais |
+| HTML,CSS e Java script para criar sites como o **HES Hygiene** | Ferramentas práticas que resolvem problemas reais |
 | 📊 **Dados** | ⚡ **Automação** |
 | Organizar e entender informações | Automatizar tarefas repetitivas do trabalho |
 
